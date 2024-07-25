@@ -5,6 +5,10 @@ A 45 days challenge of completing Javascript feature and MERN Stack
   <img src="your-logo.png" alt="Logo" width="80" height="80">
 </p>
 
+<p align="center">
+  <img src="https://www.shutterstock.com/image-illustration/45-days-go-word-on-260nw-1468343177.jpg" alt="45 days to go" width="260">
+</p>
+
 <h1 align="center">Full Stack JavaScript Development Topics</h1>
 
 <div align="center">
