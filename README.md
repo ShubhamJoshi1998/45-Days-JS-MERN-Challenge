@@ -10,7 +10,7 @@ A 45 days challenge of completing Javascript feature and MERN Stack
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/yourprojectname/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ShubhamJoshi1998/45-Days-JS-MERN-Challenge/pulls)
 
 </div>
 
