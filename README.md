@@ -30,6 +30,15 @@ A 45 days challenge of completing Javascript feature and MERN Stack
 - Asynchronous programming (callbacks, Promises)
 - Express.js (web framework for Node.js)
 
+  ## Express
+- Routing (handling HTTP requests)
+- Middleware (functions executed before route handlers)
+- Templating engines (e.g., Pug, EJS)
+- Error handling
+- Static file serving
+- RESTful APIs
+- Authentication and authorization
+
 ## MongoDB
 - NoSQL databases overview
 - Document-oriented databases
@@ -39,12 +48,5 @@ A 45 days challenge of completing Javascript feature and MERN Stack
 - Aggregation framework
 - MongoDB Atlas (cloud database service)
 
-## Express
-- Routing (handling HTTP requests)
-- Middleware (functions executed before route handlers)
-- Templating engines (e.g., Pug, EJS)
-- Error handling
-- Static file serving
-- RESTful APIs
-- Authentication and authorization
+
 
